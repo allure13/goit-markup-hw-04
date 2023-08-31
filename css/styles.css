@@ -212,6 +212,7 @@ ul {
   background-color: #f4f4fd;
   width: 264px;
   height: 112px;
+  margin-bottom: 8px;
 }
 
 /*THIRD SECTION*/
@@ -261,6 +262,7 @@ ul {
   padding-top: 32px;
   padding-bottom: 32px;
 }
+
 /*FOURTH SECTION*/
 .portfolio-class {
   font-family: "Roboto", sans-serif;
@@ -304,6 +306,13 @@ ul {
   border-top: none;
 }
 
+.portfolio-overlay {
+  position: relative;
+}
+
+.portfolio-overlay-text {
+  position: absolute;
+}
 /*FOOTER*/
 .footer-class {
   background-color: #2e2f42;
@@ -330,4 +339,17 @@ ul {
   color: #f4f4fd;
   letter-spacing: 0.02em;
   max-width: 264px;
+}
+
+.footer-social-media {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+  color: #ffffff;
+}
+
+.footer-social-icon {
+  fill: #f4f4fd;
 }
