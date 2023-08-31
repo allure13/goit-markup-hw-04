@@ -266,6 +266,16 @@ ul {
   padding-bottom: 32px;
 }
 
+.social-icon-list {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.social-icon-item {
+  width: 40px;
+  height: 40px;
+}
 /*FOURTH SECTION*/
 .portfolio-class {
   font-family: "Roboto", sans-serif;
