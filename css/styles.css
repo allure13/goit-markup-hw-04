@@ -430,11 +430,9 @@ ul {
   fill: #f4f4fd;
 }
 
-/*.footer-container {
+.footer-full-container {
   display: flex;
-  align-items: baseline;
-  margin-right: 120px;
-}*/
+}
 
 .footer-social-list {
   display: flex;
